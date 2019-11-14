@@ -8,12 +8,12 @@
 Summary:	List::AllUtils - combines List::Util, List::SomeUtils and List::UtilsBy in one bite-sized package
 Summary(pl.UTF-8):	List::AllUtils - połączenie List::Util, List::SomeUtils oraz List::UtilsBy jednym bałym pakiecie
 Name:		perl-List-AllUtils
-Version:	0.12
+Version:	0.15
 Release:	1
 License:	Artistic v2.0
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/List/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8803c2beaccaf5b042efd4399ed107e5
+# Source0-md5:	df17b5e9dbef488c72836298e2da221b
 URL:		http://search.cpan.org/dist/List-AllUtils/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
