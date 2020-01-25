@@ -4,7 +4,6 @@
 #
 %define		pdir	List
 %define		pnam	AllUtils
-%include	/usr/lib/rpm/macros.perl
 Summary:	List::AllUtils - combines List::Util, List::SomeUtils and List::UtilsBy in one bite-sized package
 Summary(pl.UTF-8):	List::AllUtils - połączenie List::Util, List::SomeUtils oraz List::UtilsBy jednym bałym pakiecie
 Name:		perl-List-AllUtils
