@@ -8,7 +8,7 @@ Summary:	List::AllUtils - combines List::Util, List::SomeUtils and List::UtilsBy
 Summary(pl.UTF-8):	List::AllUtils - połączenie List::Util, List::SomeUtils oraz List::UtilsBy jednym bałym pakiecie
 Name:		perl-List-AllUtils
 Version:	0.19
-Release:	1
+Release:	2
 License:	Artistic v2.0
 Group:		Development/Languages/Perl
 Source0:	https://www.cpan.org/modules/by-module/List/%{pdir}-%{pnam}-%{version}.tar.gz
